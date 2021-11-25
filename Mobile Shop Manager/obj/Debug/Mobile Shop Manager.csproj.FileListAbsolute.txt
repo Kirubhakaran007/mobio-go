@@ -1,0 +1,35 @@
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Mobile Shop Manager.exe.config
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Mobile Shop Manager.exe
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Mobile Shop Manager.pdb
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Guna.UI2.dll
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.csprojAssemblyReference.cache
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Login.resources
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Splash.resources
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Properties.Resources.resources
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.csproj.GenerateResource.cache
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.csproj.CoreCompileInputs.cache
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.csproj.CopyComplete
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.exe
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.pdb
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Accessories.resources
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Moobile.resources
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Selling.resources
+C:\Users\SwethaGanesh\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Home.resources
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Mobile Shop Manager.exe.config
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Mobile Shop Manager.exe
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Mobile Shop Manager.pdb
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Accessories.resources
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Home.resources
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Login.resources
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Moobile.resources
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Selling.resources
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Splash.resources
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile_Shop_Manager.Properties.Resources.resources
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.csproj.CopyComplete
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.exe
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.pdb
+C:\Users\DELL\source\repos\Mobile Shop Manager\Mobile Shop Manager\obj\Debug\Mobile Shop Manager.csproj.AssemblyReference.cache
